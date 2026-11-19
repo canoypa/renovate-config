@@ -1,6 +1,5 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "description": "canoypa のリポジトリに共通の設定。自動マージ・グループ分け・対象のマネージャはリポジトリごとに決める",
   "extends": [
     "config:recommended",
     ":semanticCommitTypeAll(chore)",
